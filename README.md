@@ -1,16 +1,14 @@
-## Hi there 👋
+# Bienvenido a mi perfil de GitHub 👋
 
-<!--
-**Angelru89/Angelru89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, soy **Angel Ruiz**, Ingeniero en Electrónica y Automática Industrial.  
+Me apasionan las nuevas tecnologías y disfruto explorando y desarrollando soluciones creativas, especialmente usando **Python**.
 
-Here are some ideas to get you started:
+En este espacio, encontrarás proyectos relacionados con mi carrera y mi pasión por la programación. Estoy constantemente aprendiendo y experimentando con nuevas herramientas para mantenerme actualizado en este mundo tecnológico en constante evolución.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios y no dudes en contactarme para colaborar o compartir ideas.
+
+---
+
+📫 **Cómo contactarme**:  
+- **Email**: [tucorreo@example.com](mailto:tucorreo@example.com)  
+- **LinkedIn**: [linkedin.com/in/angel-ruiz](https://linkedin.com/in/angel-ruiz) *(Actualiza con tu enlace)*  
